@@ -1,0 +1,28 @@
+This project analyzes website traffic data across multiple marketing channels to evaluate user acquisition performance, engagement behavior, and channel effectiveness.
+
+The objective was to:
+Identify top traffic-driving channels
+Compare engaged vs non-engaged sessions
+Analyze engagement time and variability
+Detect performance gaps and optimization opportunities
+
+
+🛠 Tools & Technologies
+Python
+Pandas (data cleaning & transformation)
+Matplotlib (visualization)
+Jupyter Notebook
+
+
+🔍 Key Business Findings
+Organic Search is the primary traffic driver.
+Organic Video, though small in traffic, shows high engagement time.
+Traffic concentration across few channels indicates diversification risk.
+Engagement behavior varies significantly by acquisition source.
+
+
+📈 Business Recommendations
+Prioritize SEO optimization.
+Improve engagement strategy for Social and Direct channels.
+Expand high-quality video content.
+Optimize campaign timing using hourly traffic patterns.
